@@ -1,3 +1,5 @@
+<div align='center'>
+
 # David Ho 
 
 Welcome to my GitHub profile
@@ -6,9 +8,11 @@ Welcome to my GitHub profile
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/dswho2) 💼
-- [Personal Website](https://www.dswho2.github.io) 🌟
+[LinkedIn](https://www.linkedin.com/in/dswho2) 💼
+
+[Personal Website](https://www.dswho2.github.io) 🌟
 
 ---
 
 Feel free to explore my repositories and connect with me!
+</div>
