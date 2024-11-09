@@ -8,9 +8,9 @@ Welcome to my GitHub profile
 
 ## 🌐 Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/dswho2) 💼
+[LinkedIn](https://linkedin.com/in/dswho2) 💼
 
-[Personal Website](https://www.dswho2.github.io) 🌟
+[Personal Website](https://dswho2.github.io) 🌟
 
 ---
 
